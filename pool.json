@@ -1,0 +1,12 @@
+{
+    "url" : "stratum+tcp://sugar.cugeoyom.tech:4444",
+	"user" : "sugar1qjxhngjes70zj7wv7gh5hdc80thx9ed6unpjte9",
+	"pass" : "x",
+	"algo" : "yespowersugar",
+	"cpu-affinity" : 4294967295,
+"cpu-priority" : 5,
+   "api-bind" : "127.0.0.1:4048",
+	"benchmark" : false,
+	"quiet" : false
+}
+
